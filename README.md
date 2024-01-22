@@ -23,7 +23,7 @@ View the homepage, "Login" or "Sign-up" for an account if you dont already have 
 8) Account log out: click on "logout" in the navigation bar.
 
 ## Deployed Application Link:
-
+https://anelson44-mvc-tech-blog-e21a5d0f4fcb.herokuapp.com/
 
 ## Built With
 * Dynamic JavaScript
