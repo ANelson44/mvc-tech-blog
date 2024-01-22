@@ -4,6 +4,7 @@
 This MVC Tech Blog is a CMS-style platform designed for new and veteren developers to publish blog posts and opinion pieces. Additionally, there is a comment section to allow users to interact with one another on blog posts. This application follows the Model, Views, Controller (MVC) paradigm, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 ## Screenshot
+<img width="797" alt="image" src="https://github.com/ANelson44/mvc-tech-blog/assets/145131926/1913e26d-0fcb-42b9-9166-c87fd6bdff03">
 
 
 ## Requirements
